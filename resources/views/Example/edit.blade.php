@@ -84,8 +84,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <img src="/img/blogo.png" alt="Fjords" width="300" height="auto">
-                <div class="title">AliBoxStudio Management</div>
+                <img src="./img/blogo.png" alt="Fjords" width="300" height="auto">
+                <div class="title">example edit</div>
                 <button id="btnlogin">LOG IN</button></br>
             </div>
         </div>

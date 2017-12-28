@@ -85,7 +85,7 @@
         <div class="container">
             <div class="content">
                 <img src="/img/blogo.png" alt="Fjords" width="300" height="auto">
-                <div class="title">AliBoxStudio Management</div>
+                <div class="title">example create</div>
                 <button id="btnlogin">LOG IN</button></br>
             </div>
         </div>
